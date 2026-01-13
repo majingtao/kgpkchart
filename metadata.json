@@ -1,0 +1,5 @@
+{
+  "name": "Manufacturing Command Cockpit",
+  "description": "A high-level single-page dashboard for manufacturing executives to monitor KPIs, production status, supply chain, and critical alerts in real-time.",
+  "requestFramePermissions": []
+}
