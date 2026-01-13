@@ -26,7 +26,7 @@ const App: React.FC = () => {
             <LayoutDashboard size={20} />
           </div>
           <div>
-            <h1 className="text-xl font-bold tracking-tight text-white leading-none">派克汉尼汾(上海)</h1>
+            <h1 className="text-xl font-bold tracking-tight text-white leading-none">派克汉尼汾(上海)公司</h1>
             <span className="text-xs text-slate-500 font-mono">PLANT: SHANGHAI-HQ | UNIT: ASSEMBLY-A</span>
           </div>
         </div>
